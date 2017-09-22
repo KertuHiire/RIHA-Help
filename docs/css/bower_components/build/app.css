@@ -294,9 +294,9 @@ html {
 
 body {
     font-family: "Roboto", sans-serif;
-    font-size: 1rem;
+    font-size: 0.875rem;
     font-weight: normal;
-    line-height: 1.25;
+    line-height: 1.25rem;
     color: #222326;
     background-color: #edf0f5
 }
@@ -9539,7 +9539,7 @@ select::-ms-expand {
     right: -100px;
     height: 500px;
     background-color: #023cc1;
-    background-image: url(../images/data/intro-bg.png);
+    background-image: url(/RIHA-Help/assets/images/data/intro-bg.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover
@@ -9550,7 +9550,7 @@ select::-ms-expand {
 }
 
 .pagehead h1, .pagehead .h1 {
-    font-size: 60px;
+    font-size: 3rem;
     line-height: 1;
     margin-bottom: 30px
 }
