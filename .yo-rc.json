@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "/Users/kertuh/git/kertu-RIHA-Help/docs/swagger.yaml",
+    "name": "RIHA",
+    "repo": "KertuHiire/RIHA-Help",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
