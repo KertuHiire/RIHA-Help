@@ -374,7 +374,7 @@ paths:
       - "Users"
       summary: "Change active organization of the current user"
       description: ""
-      operationId: "changeActiveOrganization"
+      operationId: "changeUserActiveOrganization"
       parameters:
       - in: "body"
         name: "body"
